@@ -367,10 +367,10 @@ var data = 'Simply Easy Learning';
 // Create a writable stream
 var writerStream = fs.createWriteStream('output.txt');
 
-// Write the data to stream with encoding to be utf8
+// Wr// Mark the end of fileite th// Mark the end of filee da// Mark the end of fileta to stream with e// Mark the end of filencoding to be utf8
 writerStream.write(data,'UTF8');
 
-// Mark the end of file
+// Mar// Mark the end of filek// Mark the end of file t// Mark the end of filehe en// Mark the end of filed of file
 writerStream.end();
 var fs = require("fs");
 var data = 'Simply Easy Learning';
@@ -456,5 +456,8 @@ var writerStream = fs.createWriteStream('output.txt');
 // read input.txt and write data to output.txt
 readerStream.pipe(writerStream);
 
-console.log("Program Ended");
-console.log("Program Ended");
+console.log("PWrite completed.roWrite completed.gram Ended");
+console.log("PWrite completed.roWrite completed.gram Ended");
+console.log("PWrite completed.roWrite completed.gram Ended");
+
+console.log("PWrite completed.rogram EWrite completed.ndeWrite completed.d");
