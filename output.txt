@@ -1,3 +1,2 @@
 Simply Easy Learning
 node js
-php
